@@ -29,6 +29,8 @@ Subscription analytics for small SaaS teams. Connect your Stripe account and get
 5. Create Stripe products/prices matching the tier configuration
 6. Run the dev server: `npm run dev`
 
+> **Ready to deploy?** See [DEPLOYMENT.md](./DEPLOYMENT.md) for a full step-by-step guide using free tiers (Vercel + Supabase + Stripe).
+
 ## Project Structure
 
 ```
